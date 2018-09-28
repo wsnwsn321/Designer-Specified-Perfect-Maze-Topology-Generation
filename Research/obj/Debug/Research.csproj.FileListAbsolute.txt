@@ -1,0 +1,7 @@
+C:\Users\songnan\Source\Repos\Research\Research\bin\Debug\Research.exe.config
+C:\Users\songnan\Source\Repos\Research\Research\bin\Debug\Research.exe
+C:\Users\songnan\Source\Repos\Research\Research\bin\Debug\Research.pdb
+C:\Users\songnan\Source\Repos\Research\Research\obj\Debug\Research.csprojResolveAssemblyReference.cache
+C:\Users\songnan\Source\Repos\Research\Research\obj\Debug\Research.csproj.CoreCompileInputs.cache
+C:\Users\songnan\Source\Repos\Research\Research\obj\Debug\Research.exe
+C:\Users\songnan\Source\Repos\Research\Research\obj\Debug\Research.pdb
